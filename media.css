@@ -1,0 +1,39 @@
+@media(max-width: 650px){
+    .textn{
+    display: block;
+}
+.cont{
+    flex-direction: column;
+    background-color: white;
+    margin-top: 0px;
+}
+.text h1{
+   text-align: center;
+   font-size: 40px;
+}
+.text p{
+    text-align: center;
+    font-size: 26px;
+}
+.knop{
+  position: absolute;
+  top: 950px;
+  left: 100px;
+}
+.boxer{
+    display: none;
+}
+.foto2{
+    width: 406px;
+    height: 372px;
+    background-position: bottom;
+    position: absolute;
+    right: 20px;
+    top:550px;
+    left: 40px;
+}
+.box1{
+    position: static;
+}
+
+}
