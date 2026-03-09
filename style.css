@@ -265,5 +265,53 @@ hr{
     margin-top: 50px;
     
 }
-
+.footer{
+    width: 85%;
+    height: 260px;
+    background-color: rgba(33, 39, 49, 1);
+    border-radius: 12px;
+    color: whitesmoke;
+    display: flex;
+    padding: 40px;
+    margin: auto;
+    gap: 10px;
+    margin-top: 100px;
+}
+.footer h1{
+    margin-top: 80px;
+    font-size: 80px;
+    
+    
+}
+.jpeg{
+    position: relative;
+}
+.jp1{
+    position: absolute;
+    top: 40px;
+}
+.jp2{
+    position: absolute;
+    left: 160px;
+}
+.hj{
+    background-color: rgba(40, 48, 61, 1);
+    border-radius: 12px;
+    display: inline;
+    padding: 10px;
+}
+.klass{
+    display: none;
+}
+.dno{
+    background-color: rgba(33, 39, 49, 0.05);
+    height: 369px;
+    width: 90%;
+    margin-top: 100px;
+    border-radius: 20px;
+    margin: 40px auto;
+}
+.xat{
+    display: none;
+}
 
