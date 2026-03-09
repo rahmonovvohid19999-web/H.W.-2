@@ -97,3 +97,20 @@
     background-position: right ;
     position: relative;
 }
+.cont2
+{
+    display: flex;
+    background-color: rgba(33, 39, 49, 1);
+    width: 85%;
+    height: 235px;
+    font-size: 40px;
+    color: white;
+    justify-content: space-around;
+    margin: auto;
+    border-radius: 12px;
+    margin-top: 100px;
+}
+.cont2 span{
+    background-color: rgba(40, 48, 61, 1);
+
+}
