@@ -88,5 +88,12 @@
 .texttell span{
     color: green;
 }
+.byd{
+    flex-direction: column;
+    gap: 20px;
+}
+.rccola{
+    margin: auto;
+}
 
 }

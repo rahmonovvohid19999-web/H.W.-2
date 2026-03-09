@@ -189,4 +189,35 @@ hr{
 .texttell{
     display: none;
 }
+.rs{
+    display: flex;
+}
+.sr{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.rccola{
+    width: 350px;
+    padding: 20px;
+    border: 1px solid lightgray;
+    border-radius: 12px;
+}
+.rccola button{
+    width: 90%;
+    height: 52px;
+    border: 1px solid rgba(215, 177, 141, 1);
+    background-color: transparent;
+    border-radius: 12px;
+    margin-left: 20px;
+}
+.byd{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+.lexar{
+    margin-top: 200px;
+}
+
 
