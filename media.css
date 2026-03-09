@@ -95,5 +95,33 @@
 .rccola{
     margin: auto;
 }
+.qwert{
+    flex-direction: column;
+    background-color: transparent;
+    text-align: center;
+}
+.l{
+    background-color: rgba(244, 244, 245, 1);
+    margin-top: 10px;
+}
+.ikea{
+    margin-top: 80px;
+    width: 90%;
+    font-size: 40px;
+    border: 1px solid lightgray;
+}
+.lite{
+    flex-direction: column;
+    margin-top: 200px;
+    gap: 30px;
+    align-items: start;
+    
+}
+.lite1{
+    font-size: 30px;
+}
+.lite hr{
+   display: none;
+}
 
 }
